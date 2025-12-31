@@ -1,4 +1,5 @@
 # 🏠 House Price Prediction
+Kaggle Project: https://www.kaggle.com/code/lokeshhate/house-price-prediction-2-0
 
 ## 📌 Project Overview
 This project focuses on predicting residential house prices using regression-based
